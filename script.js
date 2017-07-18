@@ -1,4 +1,4 @@
-color_icobase = "../../plugins/codify/images/toolbar/";
+color_icobase = "../../plugins/codify/";
 
 if(window.toolbar != undefined) {
   toolbar[toolbar.length] = {
